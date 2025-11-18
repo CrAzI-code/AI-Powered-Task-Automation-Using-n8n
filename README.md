@@ -15,7 +15,7 @@ Features
  Fully automated — no manual entry required
  Works with any chat trigger (Telegram, WhatsApp, n8n AI Chat, Webhook, etc.)
 
-#How It Works (Simple Explanation)
+# How It Works (Simple Explanation)
 
 1. User Sends a Chat Message
    Example: “Create a task: Finish cybersecurity report tomorrow morning, priority high.”
@@ -38,7 +38,7 @@ Features
 The automation inserts a new row into your prepared spreadsheet.
 
 
-#Workflow Structure
+# Workflow Structure
 
 The workflow includes these nodes:
 
